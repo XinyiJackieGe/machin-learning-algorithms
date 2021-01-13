@@ -1,4 +1,4 @@
-# machin-learning-algorithms
+# home-credit-defualt-risk
 
 This project is coded in Ruby with hand-written machine learning algorithm implementations (includes logistic regression with L2 regularization and random forest).
 
